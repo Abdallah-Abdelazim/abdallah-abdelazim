@@ -1,6 +1,6 @@
-<h2 align="left">Hi 👋, I'm Abdallah</h1>
+<h2 align="left">Hi 👋, I'm Abdallah</h2>
 
-<h4 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- Twitter -->
 <a href="https://twitter.com/abdallah_azim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdallah_azim" height="30" width="30" /></a>&nbsp;
@@ -10,7 +10,7 @@
 <a href="https://stackoverflow.com/users/8555796" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8555796" height="30" width="30" /></a>&nbsp;
 </p>
 
-<h4 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <!-- Android -->
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>&nbsp;
